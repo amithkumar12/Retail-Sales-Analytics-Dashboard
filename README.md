@@ -1,6 +1,10 @@
 # 📊 Retail Sales Analytics Dashboard
 
-An end-to-end Data Analytics project built using **MySQL** and **Power BI**. This project demonstrates the complete workflow from importing raw retail sales data into MySQL, performing data cleaning and transformation using SQL, and building an interactive Power BI dashboard for business insights.
+![Retail Sales Dashboard](screenshot/dashboard.png)
+
+An end-to-end Data Analytics project built using **MySQL** and **Power BI**.
+
+This project demonstrates the complete workflow from importing raw retail sales data into MySQL, performing data cleaning and transformation using SQL, and building an interactive Power BI dashboard for business insights.
 
 ---
 
@@ -67,14 +71,6 @@ The dashboard provides an interactive analysis of retail sales performance using
 - Total Customers
 
 ---
-
-## 📈 Dashboard Preview
-
-
-
-```markdown
-![Retail Sales Dashboard](screenshot/dashboard.png)
-```
 
 ---
 
