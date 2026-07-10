@@ -141,8 +141,8 @@ Retail-Sales-Analytics-Dashboard/
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
-- GitHub: *(Add your GitHub profile URL)*
+- LinkedIn: *(https://www.linkedin.com/in/cheeli-amith-kumar-355804240/)*
+- GitHub: *(https://github.com/amithkumar12)*
 
 ---
 
