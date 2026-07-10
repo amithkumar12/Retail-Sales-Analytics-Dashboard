@@ -73,7 +73,7 @@ The dashboard provides an interactive analysis of retail sales performance using
 > Replace the line below with your screenshot after uploading it to GitHub.
 
 ```markdown
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshot/dashboard.png)
 ```
 
 ---
